@@ -17,7 +17,7 @@ const CardHeader = styled.h3`
 const DetailsButton = styled.button`
     align-items: center;
     appearance: button;
-    background-color: #0276FF;
+    background-color: #cee0f1;
     border-radius: 8px;
     border-style: none;
     box-shadow: rgba(255, 255, 255, 0.26) 0 1px 2px inset;
@@ -27,14 +27,10 @@ const DetailsButton = styled.button`
     padding: 10px 21px;
     text-align: center;
     text-transform: none;
-    transition: color .13s ease-in-out,background .13s ease-in-out,opacity .13s ease-in-out,box-shadow .13s ease-in-out;
-
-    &:active {
-        background-color: #006AE8;
-    }
 
     &:hover {
-        background-color: #1C84FF;
+        background-color: #1489ff;
+        transition: color .13s ease-in-out,background .13s ease-in-out,opacity .13s ease-in-out,box-shadow .13s ease-in-out;
     }
 `;
 
