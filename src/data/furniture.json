@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Springmadras 90x200 BASIC S50 DREAMZONE",
+        "price": "750",
+        "currency": "DKK",
+        "image": "https://cdn1.jysk.com/getimage/wd2.teaser/180379",
+        "largeImage": "https://cdn1.jysk.com/getimage/wd2.medium/180379",
+        "description": "23 cm tyk springmadras 90x200 cm med bonell fjedre 130/m², polstret med purskum. Vaskbart betræk med let quilting.",
+        "category": "Madrasser",
+        "offer": false
+    },
+    {
+        "id": 2,
+        "name": "Springmadras 90x200 PLUS S15 DREAMZONE",
+        "price": "1000",
+        "currency": "DKK",
+        "image": "https://cdn4.jysk.com/getimage/wd2.teaser/131427",
+        "largeImage": "https://cdn4.jysk.com/getimage/wd2.medium/131427",
+        "description": "18 cm tyk, vendbar springmadras 90x200 cm med pocket-fjedre 266/m², inddelt i 7 komfortzoner, hvilket giver en unik, ergonomisk korrekt støtte. Polstret med purskum. Vaskbart betræk med en let quiltning.",
+        "category": "Madrasser",
+        "offer": false
+    },
+    {
+        "id": 3,
+        "name": "Springmadras 90x200 PLUS S25 DREAMZONE",
+        "price": "2499",
+        "currency": "DKK",
+        "image": "https://cdn4.jysk.com/getimage/wd2.teaser/203394",
+        "largeImage": "https://cdn4.jysk.com/getimage/wd2.medium/203394",
+        "description": "19 cm tyk springmadras 90x200 cm med pocket-fjedre 324/m², inddelt i 11 komfortzoner. Madrassen er polstret med purskum. Vaskbart betræk med blød, kraftig quiltning.",
+        "category": "Madrasser",
+        "offer": true
+    },
+    {
+        "id": 4,
+        "name": "Springmadras 90x200 PLUS S35 DREAMZONE",
+        "price": "2999",
+        "currency": "DKK",
+        "image": "https://cdn1.jysk.com/getimage/wd2.teaser/131524",
+        "largeImage": "https://cdn1.jysk.com/getimage/wd2.medium/131524",
+        "description": "21 cm tyk, vendbar springmadras 90x200 cm med pocket-fjedre 266/m², inddelt i 7 komfortzoner, som giver en unik og ergonomisk korrekt støtte. Madrassen er polstret med trykaflastende memory-skum og purskum på den ene side og purskum på den anden. Memory-skum former sig præcist efter kroppen. Vaskbart strækbetræk med kraftig quiltning.",
+        "category": "Madrasser",
+        "offer": true
+    },
+    {
+        "id": 5,
+        "name": "Elevationsseng 180x200 GOLD E40 latex Grå-40",
+        "price": "10000",
+        "currency": "DKK",
+        "image": "https://cdn4.jysk.com/getimage/wd2.teaser/114479",
+        "largeImage": "https://cdn1.jysk.com/getimage/wd2.medium/114479",
+        "description": "Elevationsseng 180x200 cm med trådløs fjernbetjening. 2 springmadrasser med pocket-fjedre 250/m², polstret med purskum. Madrasserne er inddelt i 5 komfortzoner, hvilket giver en præcis og optimal støtte. 1 topmadras, 8 cm tyk med praktisk snit i hovedenden. Med denne topmadras undgår du revnen mellem sengene, og snittet gør, at hovedenderne kan bevæge sig helt uafhængigt. Madrassens kerne er af åndbar latex, der effektivt leder overskydende varme væk. Vaskbart strækbetræk med blød, kraftig quiltning. 2 elevationsbunde. Ekskl. ben og gavl.",
+        "category": "Elevationssenge",
+        "offer": false
+    },
+    {
+        "id": 6,
+        "name": "Elevationsseng 180x200 TEMPRAKON E250 Grå-47",
+        "price": "22500",
+        "currency": "DKK",
+        "image": "https://cdn2.jysk.com/getimage/wd2.teaser/203383",
+        "largeImage": "https://cdn1.jysk.com/getimage/wd2.medium/203383",
+        "description": "Elevationsseng 180x200 cm med trådløs fjernbetjening. 2 madrasser med indbygget elevationsbund og pocket-fjedre 225/m², polstret med åndbar Cooltex Breeze. Madrassen er inddelt i 7 komfortzoner hvilket giver en unik, ergonomisk korrekt støtte. 1 topmadras, 10 cm tyk med et praktisk snit i hoved- og fodenden. Med denne topmadras undgår du revnen mellem sengene, og snittet gør, at hoved- og fodenderne kan bevæge sig helt uafhængigt. Madrassen er med kerne af åndbar latex, der effektivt leder overskydende varme væk. Vaskbart betræk med blød, kraftig quiltning. Betrækket indeholder kølende og temperaturregulerende TEMPRAKON® rumteknologi, hvilket skaber et tørt og behageligt sovemiljø. Inkl. ben. Ekskl. gavl.",
+        "category": "Elevationssenge",
+        "offer": true
+    },
+    {
+        "id": 7,
+        "name": "Elevationsseng 180x200 GOLD E40 latex Grå-27",
+        "price": "19999",
+        "currency": "DKK",
+        "image": "https://cdn3.jysk.com/getimage/wd2.teaser/114502",
+        "largeImage": "https://cdn1.jysk.com/getimage/wd2.medium/114502",
+        "description": "Elevationsseng 180x200 cm med trådløs fjernbetjening. 2 springmadrasser med pocket-fjedre 250/m², polstret med purskum. Madrasserne er inddelt i 5 komfortzoner, hvilket giver en præcis og optimal støtte. 1 topmadras, 8 cm tyk med praktisk snit i hovedenden. Med denne topmadras undgår du revnen mellem sengene, og snittet gør, at hovedenderne kan bevæge sig helt uafhængigt. Madrassens kerne er af åndbar latex, der effektivt leder overskydende varme væk. Vaskbart strækbetræk med blød, kraftig quiltning. 2 elevationsbunde. Ekskl. ben og gavl.",
+        "category": "Elevationssenge",
+        "offer": false
+    },
+    {
+        "id": 8,
+        "name": "Elevationsseng 180x200 GOLD E5 latex Grå-40",
+        "price": "15998",
+        "currency": "DKK",
+        "image": "https://cdn2.jysk.com/getimage/wd2.teaser/74642",
+        "largeImage": "https://cdn1.jysk.com/getimage/wd2.medium/74642",
+        "description": "Elevationsseng 180x200 cm med trådløs fjernbetjening. 2 springmadrasser med pocket-fjedre 250/m², polstret med purskum. Madrassen er inddelt i 7 komfortzoner, hvilket giver en unik, ergonomisk korrekt støtte. 2 topmadrasser, 4 cm tyk med kerne af åndbar latex, der effektivt leder overskydende varme væk. Vaskbart strækbetræk med let quiltning. 2 elevationsbunde. Ekskl. ben og gavl.",
+        "category": "Elevationssenge",
+        "offer": false
+    }
+]
