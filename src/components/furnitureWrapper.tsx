@@ -28,7 +28,7 @@ const FurnitureList = styled.div`
 
 const FurnitureWrapper = () => {
     const [data, setData] = useState<any[]>([]);
-    const [filteredData, setFilteredData] = useState<any[]>([]) // use a more specific type here that represents your data
+    const [filteredData, setFilteredData] = useState<any[]>([])
 
     const [filters, setFilters] = useState<FilterObject>({
         searchTerm: "",
@@ -46,7 +46,7 @@ const FurnitureWrapper = () => {
                 item.name && item.name.toLowerCase().indexOf(filterObj.searchTerm.toLowerCase()) > -1) &&
                 // filter by category - check if item.category is part of the options inside the filters.category array
                 (filterObj.category.length > 0 ? filterObj.category.includes(item.category) : true)
-            // expand with more checks to fit your data
+            
         })
             .sort((a: any, b: any) => {
                 // first, get the name parameter
